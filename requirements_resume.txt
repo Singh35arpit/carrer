@@ -1,0 +1,14 @@
+# Resume Analyzer Dependencies
+# Install these to enable resume analysis feature
+
+# NLP Library
+spacy>=3.5.0
+
+# PDF Processing
+PyPDF2>=3.0.0
+
+# Word Document Processing
+python-docx>=0.8.11
+
+# To install spaCy language model, run:
+# python -m spacy download en_core_web_sm

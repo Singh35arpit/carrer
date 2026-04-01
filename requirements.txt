@@ -1,0 +1,13 @@
+# CareerPath AI - Requirements
+
+# Core dependencies
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Web application dependencies
+Flask>=3.0.0
+Flask-CORS>=4.0.0
+
+# Optional: For enhanced features
+# pandas>=2.0.0  # For advanced data analysis
+# matplotlib>=3.7.0  # For visualizations
